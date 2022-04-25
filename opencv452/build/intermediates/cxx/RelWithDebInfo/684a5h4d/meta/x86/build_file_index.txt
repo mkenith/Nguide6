@@ -1,0 +1,1 @@
+C:\Users\admin\AndroidStudioProjects\Nguide6\opencv452\libcxx_helper\CMakeLists.txt

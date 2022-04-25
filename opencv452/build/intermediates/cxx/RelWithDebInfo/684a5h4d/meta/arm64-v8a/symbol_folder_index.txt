@@ -1,0 +1,1 @@
+C:\Users\admin\AndroidStudioProjects\Nguide6\opencv452\build\intermediates\cxx\RelWithDebInfo\684a5h4d\obj\arm64-v8a
